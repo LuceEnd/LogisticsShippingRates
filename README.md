@@ -1,5 +1,7 @@
 # LogisticsShippingRates
 
+This repo was made as part of a coursera IBM fullstack certification course assignment!
+
 Please consider the below factors while contributing
 
 Code Style:
